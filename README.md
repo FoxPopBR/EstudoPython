@@ -6,7 +6,7 @@ Initial scope of the project:
 - Control of members with registrations of players and guild activities, manipulation of registered data.
 Innovations in the project scope and implementations of new technologies and API's!
 
-( 3 / 8 ) --o-----*
+( 4 / 8 ) ---o----*
 
 Player list ----------------------------------------------------o[ OK ]
 
@@ -38,4 +38,4 @@ Version 1.0.1 -->
 
 The entire repository created and managed by the Git terminal.
 Material "codado" in VScode. by ("FoxPop _ Fábio Cesar")
-Annex of the first compiled version .exe
+
