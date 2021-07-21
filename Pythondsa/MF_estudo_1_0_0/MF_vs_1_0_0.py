@@ -60,4 +60,3 @@ while True:
        break
     else:
         escolha()
-        
