@@ -38,8 +38,7 @@ def Escolha():
         os.system("cls")
         print("Bye ,o/")
         sleep(1)
-        quit()
-        
+        quit()        
     else:   # Sempre que não digitar uma opção valida
         print("Você entendeu as opções? Faça direito!")
         print("Você digitou: ",opcao)
