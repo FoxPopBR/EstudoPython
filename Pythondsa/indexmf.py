@@ -1,7 +1,7 @@
 #-*- coding: -utf8 -*-
 import os
-from _class_menu import (menuo,escolha)
-from menu_corpo import contador,opcao
+from classmf import (menuo,escolha)
+from corpomf import contador,opcao
 opcao = ""
 
 while True:

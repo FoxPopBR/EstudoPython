@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-from menu_corpo import NomePlayer,qt,contador
-from index import opcao
+from corpomf import NomePlayer,qt,contador
+from indexmf import opcao
 
 def escolha():
     print("Opção escolhida:",opcao)
