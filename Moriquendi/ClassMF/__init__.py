@@ -8,11 +8,10 @@
 - Novas funções e derivadas serão criadas aqui!
     """
 import os
-from socket import ntohl
 import sys
-from time import sleep, time
+from time import *
 from tracemalloc import stop
-from VarGlobal import * 
+from VarGlobal import opcao,contador,NomePlayer,IdJogador,digop,qt
 #arquivo onde contem todas as variáveis global
 def ListaPlayer():
     global NomePlayer
