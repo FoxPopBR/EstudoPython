@@ -1,5 +1,6 @@
+*.pyc
 *.xml
 *.iml
 *.html
-*.json
-*.pyc
+.dea
+.vscode
