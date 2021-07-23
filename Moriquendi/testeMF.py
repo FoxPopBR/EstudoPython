@@ -1,9 +1,13 @@
-#-*- coding: -utf8 -*-
-from classMF.packMF import ListaPlayer, MenuCad
+# -*- coding: -utf8 -*-
+from asyncio.constants import DEBUG_STACK_DEPTH
+from ctypes.wintypes import PINT
+import opcode
+from unittest import TestSuite
+from numpy import dstack
+# Importa pacote de funções criados em uma pasta separada
+from classMF.packMF import *
 import os
 import sys
-#from ClassMF.__PackFun__ import * #Importa pacote de funções criados em uma pasta separada
-
 from mfglobal import *
 
 MenuCad()
