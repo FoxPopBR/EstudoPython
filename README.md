@@ -18,20 +18,20 @@ Innovations in the project scope and implementations of new technologies and API
 
 4. Add comments in clean and objective correct throughout
 <<<<<<< HEAD
-the code! -------------------------------------------o------------- [ ]
+the code!
+-------------------------------------------o------------- [ ]
 
 5. Add and remove name player o--------------------------------- [ ]
 
 6. Display player names in alphabetical list, with and
 id number as numeric identification o-------------------------- [ ]
-=======
+
 the code! --------------------------------------------------------o [ OK ]
 
 5. Add and remove name player ---------------------------------o [ OK ]
 
 6. Display player names in alphabetical list, with and
 id number as numeric identification ------------o------------- [ ]
->>>>>>> FoxPop
 
 7. Create a window on Windows to display the code o---------- [ ]
 
