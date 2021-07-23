@@ -16,9 +16,7 @@ Innovations in the project scope and implementations of new technologies and API
 
 3. Exit button---------------------------------------------------o [ OK ]
 
-4. Add comments in clean and objective correct throughout
-<<<<<<< HEAD
-the code!
+4. Add comments in clean and objective correct throughout the code!
 -------------------------------------------o------------- [ ]
 
 5. Add and remove name player o--------------------------------- [ ]
@@ -48,5 +46,6 @@ Version 1.0.1 -->
 2.4 Create a framework for automated Mob couting [ ]
 
 The entire repository created and managed by the Git terminal.
-Material "codado" in VScode. by ("FoxPop _ Fábio Cesar")
+Material "codado" in VScode. 
+>by ("FoxPop _ Fábio Cesar")
 
