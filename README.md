@@ -6,25 +6,25 @@ Initial scope of the project:
 - Control of members with registrations of players and guild activities, manipulation of registered data.
 Innovations in the project scope and implementations of new technologies and API's!
 
-( 3 / 8 ) --o-----*
+Version 1.0.0 ( 6 / 8 ) -----o--*
 
-Player list ----------------------------------------------------o[ OK ]
+1. Player list ----------------------------------------------------o[ OK ]
 
-Consult player names, number of members--------------o [ OK ]
+2. Consult player names, number of members--------------o [ OK ]
 
-Exit button---------------------------------------------------o [ OK ]
+3. Exit button---------------------------------------------------o [ OK ]
 
-Add comments in clean and objective correct throughout
-the code! -------------------------------------------o------------- [ ]
+4. Add comments in clean and objective correct throughout
+the code! --------------------------------------------------------o [ OK ]
 
-Add and remove name player o--------------------------------- [ ]
+5. Add and remove name player ---------------------------------o [ OK ]
 
-Display player names in alphabetical list, with and
-id number as numeric identification o-------------------------- [ ]
+6. Display player names in alphabetical list, with and
+id number as numeric identification ------------o------------- [ ]
 
-Create a window on Windows to display the code o---------- [ ]
+7. Create a window on Windows to display the code o---------- [ ]
 
-Create separate files for
+8. Create separate files for
 (functions / global variables / visual part / index) -----------o [ OK ]
 
 Version 1.0.1 -->
