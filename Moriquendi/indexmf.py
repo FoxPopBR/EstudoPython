@@ -1,10 +1,9 @@
 #-*- coding: -utf8 -*-
 import os
 import sys
-import ClassMF #Importa pacote de funções criados em uma pasta separada
-
+from classMF.packMF import *
 
 while True:
     os.system("cls")
-    ClassMF.Menuo() #Inicia o programa 
+    Menuo() #Inicia o programa 
  

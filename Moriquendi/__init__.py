@@ -1,1 +1,3 @@
-from VarGlobal import *
+from mfglobal import *
+from classMF import *
+
