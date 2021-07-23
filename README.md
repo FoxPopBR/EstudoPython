@@ -1,17 +1,14 @@
 My first study version of Python.
-MF_vs_1.0.0  data 07/21/2021
+>MF_vs_1.0.0  data 07/21/2021
 
-lasted update 21:00 date 07/21/2021
+lasted update 17:00 date 07/23/2021
 
 Initial scope of the project:
 - Control of members with registrations of players and guild activities, manipulation of registered data.
 Innovations in the project scope and implementations of new technologies and API's!
 
-<<<<<<< HEAD
-( 4 / 8 ) ---o----*
-=======
-Version 1.0.0 ( 6 / 8 ) -----o--*
->>>>>>> FoxPop
+>Version 1.0.0 ( 6 / 8 ) -----o--*
+>FoxPop
 
 1. Player list ----------------------------------------------------o[ OK ]
 
