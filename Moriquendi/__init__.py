@@ -1,2 +1,3 @@
+from classMF.packMF import *
 
 
