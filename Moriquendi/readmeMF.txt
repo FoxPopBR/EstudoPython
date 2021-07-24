@@ -33,15 +33,15 @@ o---------------------------------------------------- [  ]
 o---------------------------------------------------- [  ]
 
 *********************************************************** 
-Version 1.0.0 ( 10 / 10 ) --------\o/*18:00 date 07/24/2021* Complete
-                                                          *
+Version 1.0.0 ( 10 / 10 ) --------\o/*18:00 date 07/24/2021* Complete *                                                         
 1. Player list 
 ---------------------------------------------------o [ OK ]
 2. Consult player names, number of members
 ---------------------------------------------------o [ OK ]
 3. Exit button
 ---------------------------------------------------o [ OK ]
-4. Add comments in clean and objective correct throughout the code! ---------------------------------------------------o [ OK ]
+4. Add comments in clean and objective correct throughout the code! 
+---------------------------------------------------o [ OK ]
 5. Add and remove name player 
 ---------------------------------------------------o [ OK ]
 6. Display player names in alphabetical list, with and id number as numeric identification 
@@ -52,7 +52,8 @@ Version 1.0.0 ( 10 / 10 ) --------\o/*18:00 date 07/24/2021* Complete
 ---------------------------------------------------o [ OK ]
 9. Review and test all code!
 ---------------------------------------------------o [ OK ]
-10. Create separate files for (functions/global variables/visual part/index) ---------------------------------------------------o [ OK ]
+10. Create separate files for (functions/global variables/visual part/index) 
+---------------------------------------------------o [ OK ]
 ***********************************************************
 
 The entire repository created and managed by the Git terminal. Material "codado" in VScode.
