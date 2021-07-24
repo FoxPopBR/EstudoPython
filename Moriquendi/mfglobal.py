@@ -4,6 +4,7 @@
 
     [extended_summary]
 - Novas variáveis serão criadas aqui
+By FoxPop / FabioCesar
     """
 
 
