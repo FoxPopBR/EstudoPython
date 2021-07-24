@@ -14,7 +14,6 @@ while True:
 
 
 
-
 """ 
     [Pacote de Funções]
 - Conjunto das principais funções criadas puras para o software.
@@ -40,5 +39,3 @@ FIM <-- Variáveis Global <--
 
 By. ( FoxPop / FabioCesar )
 """
-
- 
