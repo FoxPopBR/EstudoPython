@@ -2,6 +2,7 @@
 *.xml
 *.iml
 *.html
-.dea
-.vscode
+*.dea
+*.vscode
 *.ico
+*.exe
